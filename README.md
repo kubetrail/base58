@@ -2,6 +2,9 @@
 encoder decoder in base58
 
 ## installation
+This step assumes you have [Go compiler toolchain](https://go.dev/dl/)
+installed on your system.
+
 download code to a folder, cd to it and run `go install`
 
 ## usage
